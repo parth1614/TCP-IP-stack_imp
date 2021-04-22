@@ -1,0 +1,6 @@
+This folder contains the implentation of the Graph Data Structures and mainly contains 3 files:-
+1.) graph.h
+2.) graph.c
+3.) testapp.c
+
+** external libs such as glThreads are used as well
