@@ -6,4 +6,3 @@ It will demonstrate implementation of Data link layer,
                                       Transport Layer,
                                       Session Layer 
 
-Author: Parth Arora
