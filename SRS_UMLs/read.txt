@@ -1,0 +1,1 @@
+This directory contains, the SRS, UML Diagrams and other requirement specification components.
