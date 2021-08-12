@@ -74,7 +74,7 @@ show topology
 show help
 show help
 show topo
- show topo node R1
+show topo node R1
 show node R1 rt
 conf node R1 protocol nmp
 conf node R1 nmp interface all
