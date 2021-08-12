@@ -17,6 +17,5 @@ TODO:
 1. To place the validation checks for supported data types
 
 
-How to make use of this Library in your projects :
-=====================================================
+
 See the doc LinuxLikeCommandLineInterface.docx present along with the src code.
